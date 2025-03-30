@@ -50,3 +50,4 @@ if(edad >= 18 && traeINE){
         console.log("El usuario ya no quiere ver nada.");
     }
 }
+
